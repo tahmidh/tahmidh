@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Tahmid's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahmidh)](https://github.com/tahmidh/github-readme-stats)
 -->
 ![](https://komarev.com/ghpvc/?username=tahmidh&color=green)
-
-[![Tahmid's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahmidh)](https://github.com/tahmidh/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tahmidh)](https://git.io/streak-stats)
